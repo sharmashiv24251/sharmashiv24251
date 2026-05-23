@@ -91,13 +91,12 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
   <tr>
     <td width="38%" align="center" valign="middle">
       <a href="https://gudforus.com" target="_blank">
-        <video src="https://ihichdejyaeignzbnfgb.supabase.co/storage/v1/object/public/website-assets/hero-vid.mp4"
+        <video src="./gfsvid.mp4"
                width="100%"
-               controls
+               autoplay
                loop
                muted
-               playsinline
-               autoplay>
+               playsinline>
           Your browser doesn't support embedded video.
           <a href="https://gudforus.com" target="_blank">View the demo at gudforus.com</a>
         </video>
