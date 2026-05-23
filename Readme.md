@@ -89,20 +89,12 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
 
 <table>
   <tr>
-    <td width="38%" align="center" valign="middle">
+    <td width="32%" align="center" valign="middle">
       <a href="https://gudforus.com" target="_blank">
-        <video src="./gfsvid.mp4"
-               width="100%"
-               autoplay
-               loop
-               muted
-               playsinline>
-          Your browser doesn't support embedded video.
-          <a href="https://gudforus.com" target="_blank">View the demo at gudforus.com</a>
-        </video>
+        <img src="./gfsapp.webp" alt="Gud For Us app screenshot" width="100%"/>
       </a>
     </td>
-    <td width="62%" valign="top">
+    <td width="68%" valign="top">
       <h3>🌱 &nbsp;Gud For Us — AI Ingredient Scanner</h3>
       <p>
         <strong>AI-powered mobile app for analyzing food & cosmetic products.</strong>
@@ -195,45 +187,6 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
 </table>
 
 <br/>
-
-<!-- ============================================================ -->
-<!--  PROJECT: AI LIVE CHAT SUPPORT                               -->
-<!-- ============================================================ -->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ai-chat-support-25h9.onrender.com" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/sharmashiv24251/ai-chat-support" alt="AI Chat Support Preview" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 &nbsp;AI Live Chat Support</h3>
-      <p>
-        An AI-powered shopping assistant built on <strong>Google Gemini</strong> — streaming responses, tool calling, product-aware context, and automatic model fallback across Gemini 2.0 Flash Lite → 2.5 Flash → 2.5 Pro for resilience under rate limits.
-      </p>
-      <p>
-        <strong>Engineering highlights</strong>
-      </p>
-      <ul>
-        <li>Streaming chat with function calling and structured tool outputs</li>
-        <li>Provider-agnostic AI layer — swap models without touching the UI</li>
-        <li>Drizzle ORM + SQLite for conversation persistence</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-      <p>
-        <a href="https://ai-chat-support-25h9.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FFD93D?style=for-the-badge&logo=render&logoColor=black&labelColor=0D1117"/></a>
-        <a href="https://github.com/sharmashiv24251/ai-chat-support" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/sharmashiv24251?tab=repositories" target="_blank">
