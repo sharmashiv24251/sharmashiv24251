@@ -1,8 +1,5 @@
 <!-- ============================================================ -->
 <!--  BANNER                                                      -->
-<!--  Upload your banner image to this repo (rename it to         -->
-<!--  banner.png for cleanliness), then the line below will       -->
-<!--  display it automatically.                                   -->
 <!-- ============================================================ -->
 
 <p align="center">
@@ -64,16 +61,18 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -85,38 +84,88 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
 
 <table>
   <tr>
+    <!-- ============== 💰 TOKEN PORTFOLIO ============== -->
     <td width="50%" valign="top">
-      <h3 align="center">🏡 blue-bnb</h3>
-      <p align="center">
-        <a href="https://github.com/sharmashiv24251/blue-bnb">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmashiv24251&repo=blue-bnb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9" alt="blue-bnb"/>
-        </a>
+      <a href="https://crypto-dashboard-taupe-theta.vercel.app/" target="_blank">
+        <img src="https://opfjwckyarxymdkzuwdk.supabase.co/storage/v1/object/public/temp-blue-bnb/token.png" alt="Token Portfolio Preview" width="100%"/>
+      </a>
+      <h3>💰 &nbsp;Token Portfolio</h3>
+      <p>
+        A sleek crypto-tracking dashboard with live token prices, donut-chart portfolio breakdown, watchlist with sparklines, and full wallet connection. Pixel-perfect from Figma.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RainbowKit-1B1B1F?style=flat-square&logo=rainbow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CoinGecko-8DC647?style=flat-square&logo=coingecko&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://crypto-dashboard-taupe-theta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FFD93D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117"/></a>
+        <a href="https://github.com/sharmashiv24251/crypto-dashboard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
+    <!-- ============== 🎨 IMAGELAYOUTBUILDER ============== -->
     <td width="50%" valign="top">
-      <h3 align="center">🤖 ai-chat-support</h3>
-      <p align="center">
-        <a href="https://github.com/sharmashiv24251/ai-chat-support">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmashiv24251&repo=ai-chat-support&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9" alt="ai-chat-support"/>
-        </a>
+      <a href="https://canvas-app-konva.vercel.app/" target="_blank">
+        <img src="https://opfjwckyarxymdkzuwdk.supabase.co/storage/v1/object/public/temp-blue-bnb/canvas-project.png" alt="ImageLayoutBuilder Preview" width="100%"/>
+      </a>
+      <h3>🎨 &nbsp;ImageLayoutBuilder</h3>
+      <p>
+        A lightweight Canva / Excalidraw alternative — infinite canvas with shapes, text, arrows, images, drag-and-drop layers, inspector panel, undo/redo, and cross-window clipboard.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Konva.js-0D83CD?style=flat-square&logo=konva&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://canvas-app-konva.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FFD93D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117"/></a>
+        <a href="https://github.com/sharmashiv24251/canvas-app-konva"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
   <tr>
+    <!-- ============== 🤖 AI CHAT SUPPORT ============== -->
     <td width="50%" valign="top">
-      <h3 align="center">🎨 canvas-app-konva</h3>
-      <p align="center">
-        <a href="https://github.com/sharmashiv24251/canvas-app-konva">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmashiv24251&repo=canvas-app-konva&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9" alt="canvas-app-konva"/>
-        </a>
+      <a href="https://ai-chat-support-25h9.onrender.com" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/sharmashiv24251/ai-chat-support" alt="AI Chat Support Preview" width="100%"/>
+      </a>
+      <h3>🤖 &nbsp;AI Live Chat Support</h3>
+      <p>
+        An AI-powered shopping assistant built on <strong>Google Gemini</strong> — streaming responses, tool calling, product-aware context, and automatic model fallback (2.0 Flash Lite → 2.5 Flash → 2.5 Pro) for resilience under rate limits.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://ai-chat-support-25h9.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-FFD93D?style=for-the-badge&logo=render&logoColor=black&labelColor=0D1117"/></a>
+        <a href="https://github.com/sharmashiv24251/ai-chat-support"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
+    <!-- ============== 🌱 BHUMIO ============== -->
     <td width="50%" valign="top">
-      <h3 align="center">📈 crypto-dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/sharmashiv24251/crypto-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmashiv24251&repo=crypto-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9" alt="crypto-dashboard"/>
-        </a>
+      <a href="https://github.com/sharmashiv24251/bhumio" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/sharmashiv24251/bhumio" alt="Bhumio Preview" width="100%"/>
+      </a>
+      <h3>🌱 &nbsp;Bhumio</h3>
+      <p>
+        A full-stack TypeScript project with a dedicated frontend and backend. <em>(Add a description on the repo's About section to populate this card with more detail.)</em>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Frontend-FFD93D?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Backend-8B7FF6?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Full--Stack-06B6D4?style=flat-square&labelColor=0D1117"/>
+      </p>
+      <p>
+        <a href="https://github.com/sharmashiv24251/bhumio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -133,8 +182,8 @@ I build **fast, responsive and delightful** web & mobile experiences. I design w
 ## 📊 &nbsp;GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmashiv24251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmashiv24251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmashiv24251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=8B7FF6&text_color=C9D1D9&count_private=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmashiv24251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD93D&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <p align="center">
